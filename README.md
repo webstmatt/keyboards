@@ -17,10 +17,10 @@ A comparison and review of mechanical keyboards
 | Removable? | Yes | Yes | 
 | Additional Keys | Undo, Cut, Copy, Paste | Many | 
 | Programmable | No? | Yes | 
-| USB Ports | 3x USB 2.0 |
+| USB Ports | 3x USB 2.0 | No? | 
 | Sculpted Keys | Yes | Yes |  
 | Blank key option | No | Yes | 
-| N-key | Yes
+| N-key | Yes | No? | 
 
 
 Matius Ergo Pro
