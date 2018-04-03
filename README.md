@@ -1,4 +1,4 @@
-# keyboards
+# Mechanical Split Keyboards
 A comparison and review of mechanical keyboards
 
 | Feature | Matius Ergo Pro | Ergodox EZ | Ultimate Hacking | Keyboardio M1 | 
@@ -9,7 +9,7 @@ A comparison and review of mechanical keyboards
 | Layout | Great navigation cluster | Thumb cluster might be problem | Modular thumb cluster / mouse | Great but unique | 
 | Learning | Easy | Hard | Med | Hard | 
 | Ortho | No | Yes | No | Yes | 
-| Thumb Cluster | No | Yes | Yes | Yes | 
+| Thumb Cluster | No | Yes (Multiple row) | Yes (3 button left, mouse right) | Yes (single row) | 
 | Switches | Matius quiet click or quiet linear | Cherry or Kailh | Cherry | Matius quiet click | 
 | Tilting | Yes | Yes | Yes | No | 
 | Tenting | Yes | Yes | Yes | Yes | 
@@ -18,7 +18,7 @@ A comparison and review of mechanical keyboards
 | Additional Keys | Undo, Cut, Copy, Paste | Many | Mod / Layer | Many | 
 | Programmable | No? | Yes | Yes | Yes | 
 | USB Ports | 3x USB 2.0 | No? | No? | No | 
-| Sculpted Keys | Yes | Yes | Yes | Yes | 
+| Sculpted Keys | Yes | Yes | Yes | Yes (very careful design) | 
 | Blank key option | No | Yes | Yes | No? | 
 | NKRO | Yes | No? | Yes | Yes | 
 | Color Options | No | - | Yes | No (wood) | 
