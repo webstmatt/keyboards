@@ -4,6 +4,8 @@ A comparison and review of mechanical keyboards
 | Feature | Matius Ergo Pro | Ergodox EZ | Ultimate Hacking | Keyboardio M1 | Freestyle Edge | Diverge 3 | 
 | --- | --- | --- | --- | --- | --- | --- | 
 | Cost | $200 | $325 | $415 | $329 | $245 | $236 | 
+| Rating | 3/5 (Amazon) | 4/5 (gadgetflow, hardwarezone) | 4.5/5 (gadgetflow, slant) | N/A | 4.5/5 (Amazon) | N/A |
+| Issues | Reliability Poor | N/A | N/A | N/A | tenting kit, audible sound from LEDs | N/A | 
 | Split? | Yes | Yes | Yes | Yes | Yes | Yes |
 | Joins? | Yes (not solid) | No | Yes (magnet) | No | Yes (not solid) |  No | 
 | Layout | Great navigation cluster | Thumb cluster might be problem | Modular thumb cluster / mouse | Great but unique | Fairly standard qwerty, not a fan of arrow key location | Thumb cluster looks reasonable, some other keys in weird positions | 
